@@ -1,7 +1,7 @@
 ### Hi there, it's OFENOMENO :ninja:
 
 
-I'm Ofenomeno, a 22yo :tr: and :fr: cybersecurity enthusiast. I'm particularly interested in offensive cybersecurity topics like pentest, red team and bug bounty. I'm also attracted by some defensive security topics as threat hunting and DFIR. 
+I'm Ofenomeno, a 22yo :tr: and :fr: cybersecurity enthusiast. I'm particularly interested in offensive cybersecurity topics like pentest, red team and bug bounty, DFIR and Cyber Threat Intelligence. 
 
 You can find me on following platforms:
 - [HTB](https://app.hackthebox.com/profile/964076)
@@ -19,18 +19,3 @@ I also have a personal blog which is dedicated to share some CTFs and THM/ HTB m
 
 
 
-
-<!--
-**0xOFenomeno/0xOfenomeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
